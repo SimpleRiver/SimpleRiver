@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Justin and I'm a computer Science student from California. Some info about me below.
+My name is Justin and I'm a Computer Science student from California. Some info about me below.
 
 📜 Experience:
 
