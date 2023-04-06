@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+My name is Justin and I'm a computer Science student from California. Some info about me below.
+
+📜 Experience:
+
+* **NASA NCAS Alumni** - Participant of Mission 1: Discover and Mission 2: Explore. [Remote. Winter/Spring 2023]
+
+🌱 Interests:
+
+* Web Development.
+* YouTube.
+
+💬 Reach me by email or LinkedIn!
+justin.tackie@gmail.com | https://www.linkedin.com/in/justintackie
+
 <!--
 **SimpleRiver/SimpleRiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
